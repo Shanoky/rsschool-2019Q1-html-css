@@ -1,1 +1,3 @@
-# rsschool-2019Q1-html-css
+Natallia Klimentsyeva 
+
+HTML CSS Basics: https://www.codecademy.com/users/Shanoky/achievements
